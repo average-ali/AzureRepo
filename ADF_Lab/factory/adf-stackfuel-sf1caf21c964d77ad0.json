@@ -1,0 +1,10 @@
+{
+	"name": "adf-stackfuel-sf1caf21c964d77ad0",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus2"
+}
